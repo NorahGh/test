@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mooskine/View Controllers/NotebooksListViewController.swift"
+            timestampString = "584527825.7482671"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "addNotebook(name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mooskine/View Controllers/NotesListViewController.swift"
+            timestampString = "584527825.7486269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "deleteNote(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mooskine/View Controllers/NoteDetailsViewController.swift"
+            timestampString = "584527825.749036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "deleteTapped(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mooskine/View Controllers/NoteDetailsViewController.swift"
+            timestampString = "584527825.7493761"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "showDeleteAlert()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mooskine/View Controllers/NoteDetailsViewController.swift"
+            timestampString = "584527825.749459"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "showDeleteAlert()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mooskine/View Controllers/NoteDetailsViewController.swift"
+            timestampString = "584527825.749537"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "showDeleteAlert()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mooskine/View Controllers/NoteDetailsViewController.swift"
+            timestampString = "584527825.749616"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "NoteDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mooskine.NoteDetailsViewController.onDelete.getter : Swift.Optional&lt;() -&gt; ()&gt;"
+                  moduleName = "Mooskine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saudabdullah/Desktop/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%B3%D9%88%D9%8A%D9%81%D8%AA/ios-nd-persistence-master/Mooskine/Mooskine-starter/Mooskine/View%20Controllers/NoteDetailsViewController.swift"
+                  timestampString = "584527825.940092"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mooskine.NoteDetailsViewController.onDelete.setter : Swift.Optional&lt;() -&gt; ()&gt;"
+                  moduleName = "Mooskine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saudabdullah/Desktop/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%B3%D9%88%D9%8A%D9%81%D8%AA/ios-nd-persistence-master/Mooskine/Mooskine-starter/Mooskine/View%20Controllers/NoteDetailsViewController.swift"
+                  timestampString = "584527825.946689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mooskine.NoteDetailsViewController.onDelete.modify : Swift.Optional&lt;() -&gt; ()&gt;"
+                  moduleName = "Mooskine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saudabdullah/Desktop/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%B3%D9%88%D9%8A%D9%81%D8%AA/ios-nd-persistence-master/Mooskine/Mooskine-starter/Mooskine/View%20Controllers/NoteDetailsViewController.swift"
+                  timestampString = "584527825.950598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mooskine.NoteDetailsViewController.onDelete.modify : Swift.Optional&lt;() -&gt; ()&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Mooskine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saudabdullah/Desktop/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%B3%D9%88%D9%8A%D9%81%D8%AA/ios-nd-persistence-master/Mooskine/Mooskine-starter/Mooskine/View%20Controllers/NoteDetailsViewController.swift"
+                  timestampString = "584527825.9565409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mooskine.NoteDetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Mooskine.NoteDetailsViewController"
+                  moduleName = "Mooskine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saudabdullah/Desktop/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%B3%D9%88%D9%8A%D9%81%D8%AA/ios-nd-persistence-master/Mooskine/Mooskine-starter/Mooskine/View%20Controllers/NoteDetailsViewController.swift"
+                  timestampString = "584527825.959692"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "485">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mooskine.NoteDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Mooskine.NoteDetailsViewController&gt;"
+                  moduleName = "Mooskine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saudabdullah/Desktop/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%B3%D9%88%D9%8A%D9%81%D8%AA/ios-nd-persistence-master/Mooskine/Mooskine-starter/Mooskine/View%20Controllers/NoteDetailsViewController.swift"
+                  timestampString = "584527825.961305"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "405">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
